@@ -1,0 +1,33 @@
+﻿body{
+    font-family: arial,sans-serif;
+    margin: 0;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    height: 50vh;
+ }
+  .container{
+     text-align:center;
+     background-color: #fff;
+     padding:   20px;
+     border-radius: 8px;
+     box-shadow: 0 0 10px rgba(0, 0, 0,0.1);
+ }
+ h1{
+    color: #333;
+ }
+  .galley{
+     display: flax;
+     justfy-content: space-around;
+     margin-top: 20px;
+ }
+  .image img{
+     width: 200px;
+     height:  auto;
+     border-radious: 8px;
+     box-shadow: 0 0 5px rgba(0, 0, 0,0.1);
+ }
+  .image p{
+      margin-top: 10px;
+      color: #666;
+ }
